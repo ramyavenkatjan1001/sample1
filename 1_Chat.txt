@@ -1,2 +1,3 @@
 First line code for chat box
-Second line
+Second line code for chat box
+Third line code for chat box
